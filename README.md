@@ -1,0 +1,1 @@
+Source code for [Dynamic properties container property in OData Client](https://devblogs.microsoft.com/odata/dynamic-properties-container-property-in-odata-client) blog post
