@@ -5,7 +5,9 @@ VisualStudioVersion = 16.0.30002.166
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ExDP", "ExDP\ExDP.csproj", "{49B4554B-E2FF-4D36-B7B8-9FD455950EAD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExDP.Client", "ExDP.Client\ExDP.Client.csproj", "{E98A6189-D759-404F-BD5C-F2C503BD4B25}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ExDP.Client", "ExDP.Client\ExDP.Client.csproj", "{E98A6189-D759-404F-BD5C-F2C503BD4B25}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExDP.EndpointRouting", "ExDP.EndpointRouting\ExDP.EndpointRouting.csproj", "{767B282A-1281-4379-800C-2756E2B31822}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{E98A6189-D759-404F-BD5C-F2C503BD4B25}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E98A6189-D759-404F-BD5C-F2C503BD4B25}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E98A6189-D759-404F-BD5C-F2C503BD4B25}.Release|Any CPU.Build.0 = Release|Any CPU
+		{767B282A-1281-4379-800C-2756E2B31822}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{767B282A-1281-4379-800C-2756E2B31822}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{767B282A-1281-4379-800C-2756E2B31822}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{767B282A-1281-4379-800C-2756E2B31822}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
